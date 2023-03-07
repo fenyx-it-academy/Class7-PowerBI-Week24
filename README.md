@@ -15,4 +15,4 @@ Friends, you can choose one of the following options as the assignment of the Po
  * Average loan period (months)
  * You can visualize this data by years, loan types, branches and cities.
 
- 2- You can create a 2-page dashboard using data modeling, "calculated columns" and "measures" features using a database you used in previous lessons.
+ 2- You can create a 2-page dashboard using data modeling, "calculated columns" and "measures" features using a database you used in previous lessons. 
